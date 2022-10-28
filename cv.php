@@ -178,6 +178,8 @@
           <h3 class="resume-title"><i class="fa-brands fa-square-github"></i> Проекти GitHub</h3>
           <div class="resume-item pb-0">
             <ul>
+              <li>https://github.com/LusiZidarova/laravel8_task
+              </li>
               <li>https://github.com/LusiZidarova/Project_couriers</li>
               <li>https://github.com/LusiZidarova/PHP/tree/main/PHP_Web_De
                 velopment_Basics/Project%20Courses</li>
@@ -185,8 +187,9 @@
                 velopment_Basics/Project%20Shoes</li>
               <li>https://github.com/LusiZidarova/PHP/tree/main/PHP_Symfony
                 /Blog_Symfony</li>
+
             </ul>
-         
+
           </div>
 
         </div>
@@ -198,7 +201,7 @@
           </h3>
           <div class="resume-item">
             <h4>Програмист,системи за управление на бизнеса</h4>
-            <h5>07/2022 - .......</h5>
+            <h5>07/2022 - 09/2022</h5>
             <p><em>Некст Лоджистикс ООД</em></p>
             <p>
             </p>
@@ -215,21 +218,11 @@
             </p>
             <ul>
               <li>Използвани технологии: PHP7,MySQL,CodeIgniter3-4,
-                Datatables,JS,JQuery,Ajax,Bootstrap,GitHub,Linux</li>
+                Datatables,JS,JQuery,Ajax,Bootstrap,GitHub,Linux Mgaento 2</li>
             </ul>
             <p></p>
           </div>
-          <div class="resume-item">
-            <h4>Програмист</h4>
-            <h5>02/2021 - 05/2021</h5>
-            <p><em>Европът 2000 - гр.Пловдив</em></p>
-            <p>
-            </p>
-            <ul>
-              <li>Използвани технологии: PHP7,MySQL,Datatables,JS,JQuery,Ajax</li>
-            </ul>
-            <p></p>
-          </div>
+
           <div class="resume-item">
             <h4>Спедитор с Испански език</h4>
             <h5>03/2011 - 12/2018</h5>
@@ -300,15 +293,7 @@
           </div>
         </div>
 
-        <div class="col-md-6 mt-4 d-flex align-items-stretch">
-          <div class="info-box">
-            <i class="bx bx-share-alt"></i>
-            <h3>LinkedIn</h3>
-            <div class="social-links">
-              <a href="https://www.linkedin.com/in/lyudmila-zidarova-b3446412/" class="linkedin"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-        </div>
+
 
       </div>
 
