@@ -200,13 +200,13 @@
             <i class='fas fa-briefcase'> Професионален опит</i>
           </h3>
           <div class="resume-item">
-            <h4>Програмист,системи за управление на бизнеса</h4>
-            <h5>07/2022 - 09/2022</h5>
-            <p><em>Некст Лоджистикс ООД</em></p>
+            <h4>Програмист,софтуерни приложения</h4>
+            <h5>11/2022 - </h5>
+            <p><em>Уан Стрийм ЕООД  - гр.Пловдив</em></p>
             <p>
             </p>
             <ul>
-              <li>Използвани технологии: PHP7, MySQL, Laravel 8, JS, JQuery, BitBucket
+              <li>Използвани технологии: PHP8,  Laravel 8, PostgreSQL, JS, JQuery, Jira
             </ul>
             <p></p>
           </div>
@@ -219,6 +219,17 @@
             <ul>
               <li>Използвани технологии: PHP7,MySQL,CodeIgniter3-4,
                 Datatables,JS,JQuery,Ajax,Bootstrap,GitHub,Linux Mgaento 2</li>
+            </ul>
+            <p></p>
+          </div>
+          <div class="resume-item">
+            <h4>Програмист</h4>
+            <h5>02/2021 - 05/2021</h5>
+            <p><em>Европът 2000 - гр.Пловдив</em></p>
+            <p>
+            </p>
+            <ul>
+              <li>Използвани технологии: PHP7,MySQL,Datatables,JS,JQuery,Ajax</li>
             </ul>
             <p></p>
           </div>
