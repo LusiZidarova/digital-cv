@@ -100,7 +100,7 @@
       <div class="row">
         <div class="col-7">
 
-          <h3 class="resume-title">Summary</h3>
+          <h3 class="resume-title">Лична Информация</h3>
           <div class="resume-item pb-0">
             <h4>Людмила Зидарова</h4>
             </p>
